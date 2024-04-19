@@ -18,6 +18,8 @@ app = Flask(__name__)
 flatpages = FlatPages(app)
 freezer = Freezer(app)
 app.config.from_object(__name__)
+# app.config['SERVER_NAME'] = '0.0.0.0:6000'
+
 
 # this context processors allows the below variables to be used in all templates, and you dont need to define it in each.
 @app.context_processor
@@ -141,3 +143,5 @@ def get_latest_posts(limit=10):
     latest = sorted(filtered_posts, reverse=True, key=lambda p: getattr(p, "meta").get('date'))
     return latest[:limit]
 
+# if __name__ == "__main__":
+#     app.run(host='0.0.0.0', port=6000)
