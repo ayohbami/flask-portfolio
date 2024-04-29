@@ -5,4 +5,4 @@ tech: Python, Flask, Bootstrap, Docker
 codeLink: https://github.com/buildwithdan/flask-portfolio/
 webHost: https://danienell.com/
 selfHost: https://local.danienell.com/
-dockerLink: https://local.danienell.com/
+dockerLink: https://hub.docker.com/r/buildwithdan/flask-portfolio
