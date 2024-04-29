@@ -3,4 +3,4 @@ shortDesc: Rethink of Timesheets, Billing Templates, Budget and Forecast for all
 date: 2024-03-30
 tech: Python, SQL, PowerBI, Excel VBA and PowerQuery
 codeLink: https://developer.xero.com/documentation/api/practice-manager/overview-practice-manager
-webLink: https://danienell.com/xpm
+webHost: https://danienell.com/xpm

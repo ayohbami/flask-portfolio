@@ -101,11 +101,11 @@ def projects():
   return render_template('projects.html', projects=latest)
 
 
-@app.route('/projects/<name>/')
-def project(name):
-    path = '{}/{}'.format(DIR_PROJECTS, name)
-    project = flatpages.get_or_404(path)
-    return render_template('projects-post.html', project=project)
+# @app.route('/projects/<name>/')
+# def project(name):
+#     path = '{}/{}'.format(DIR_PROJECTS, name)
+#     project = flatpages.get_or_404(path)
+#     return render_template('projects-post.html', project=project)
 
 # testing the search function for blogs
 
