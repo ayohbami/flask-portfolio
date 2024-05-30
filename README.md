@@ -9,8 +9,8 @@
   <a href="https://visitor-badge.laobi.icu/badge?page_id=buildwithdan.flask-portfolio">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=buildwithdan.flask-portfolio" alt="Visitor Badge">
   </a>
-  <a href="https://vercel.com/new/clone?repository-url=https://github.com/buildwithdan/flask-portfolio">
-    <img src="https://vercel.com/button" alt="Deploy with Vercel">
+  <!-- <a href="https://vercel.com/new/clone?repository-url=https://github.com/buildwithdan/flask-portfolio">
+    <img src="https://vercel.com/button" alt="Deploy with Vercel"> -->
   </a>
   <a href="https://github.com/buildwithdan/flask-portfolio/blob/simple/LICENSE.md">
     <img src="https://img.shields.io/badge/License-MIT-0aa8d2?logo=opensourceinitiative&logoColor=fff" alt="License MIT">
