@@ -25,7 +25,7 @@
 
 - **Framework**: [Flask](https://flask.palletsprojects.com/en/2.2.x/)
 - **Styling**: [Bootstrap](https://getbootstrap.com/)
-- **Deployment**: [Vercel](https://vercel.com)
+<!-- - **Deployment**: [Vercel](https://vercel.com) -->
 - **Analytics**: [Vercel Analytics](https://vercel.com/analytics)
 
 ## 🗂️ Directory & Configuration
