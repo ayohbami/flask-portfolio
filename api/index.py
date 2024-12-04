@@ -35,7 +35,7 @@ def inject_global_variables():
     blog_comments = config['configs']['blog_comments']
     hubspot = config['configs']['hubspot']
     linkedin = config['configs']['linkedin']
-    twitter = config['configs']['twitter']
+    Instagram = config['configs']['Instagram']
     current_year = datetime.now().year
 
     return {
@@ -46,7 +46,7 @@ def inject_global_variables():
         'blog_comments': blog_comments,
         'hubspot': hubspot,
         'linkedin': linkedin,
-        'twitter': twitter,
+        'Instagram': Instagram,
         'current_year': current_year
     }
 
